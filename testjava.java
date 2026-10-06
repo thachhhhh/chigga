@@ -8,4 +8,4 @@ public class testjava {
       }
     }
 }
-//monke smart
+//monke stupid
